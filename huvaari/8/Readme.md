@@ -1,2 +1,6 @@
-# Hicheeliin huvaari 2021~2022
-Coming soon
+# Хичээлийн хуваарь 2021~2022(8B)
+
+
+[Танхим](./tanhim)
+[Цахим](./online)
+
