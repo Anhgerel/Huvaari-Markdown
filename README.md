@@ -1,5 +1,6 @@
 # Хичээлийн хуваарь
+
 2020~2021(7B) | 2021~2022(8B)
 ------------ | -------------
-[Tanhim](./huvaari/7) | [Tanhim](./huvaari/8)
-Content in the first column | Content in the second column
+[Танхим](./huvaari/7/tanhim) | [Танхим](./huvaari/8/tanhim)
+[Цахим](./huvaari/7/online) | [Цахим](./huvaari/8/online)
