@@ -62,7 +62,8 @@ module.exports = withBundleAnalyzer({
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
   },
   images: {
-    domains: ['scontent.fuln4-2.fna.fbcdn.net'],
+    loader: 'akamai',
+    path: '',
   },
   async headers() {
     return [
